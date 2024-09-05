@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=sparsh2)
 - 👋 I am Sparsh, currently a master's student at Stevens Institute of Technology pursuing Computer Science
 - 🔭 Previously a Software Engineer at Cloudera in [Cloudera Data Engineering (CDE)](https://www.cloudera.com/products/data-engineering.html) team
 - 🌱 My primary interests are Software Engineering and Machine Learning
