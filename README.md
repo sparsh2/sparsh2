@@ -1,5 +1,6 @@
 ## Hi there! 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-sgangadh1-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgangadh1@stevens.edu)](mailto:sgangad1@stevens.edu)
 ![](https://komarev.com/ghpvc/?username=sparsh2)
 - 👋 I am Sparsh, currently a master's student at Stevens Institute of Technology pursuing Computer Science
 - 🔭 Previously a Software Engineer at Cloudera in [Cloudera Data Engineering (CDE)](https://www.cloudera.com/products/data-engineering.html) team
